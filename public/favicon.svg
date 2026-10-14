@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <rect width="64" height="64" rx="8" fill="#071426"/>
+  <rect x="3" y="3" width="58" height="58" rx="6" fill="none" stroke="#C8A45D" stroke-width="2"/>
+  <text x="32" y="42" font-family="'Playfair Display', Georgia, serif" font-size="28" font-weight="bold" fill="#C8A45D" text-anchor="middle" letter-spacing="1">BR</text>
+</svg>

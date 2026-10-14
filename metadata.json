@@ -1,0 +1,6 @@
+{
+  "name": "B.R. HOMES PVT. LTD. Real Estate",
+  "description": "Premium real estate website for B.R. HOMES PVT. LTD. in Sector 37, Faridabad, Haryana, featuring residential plots, houses, and apartments.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
